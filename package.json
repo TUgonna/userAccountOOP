@@ -1,0 +1,26 @@
+{
+  "name": "useraccountoop",
+  "version": "1.0.0",
+  "description": "OOP lab",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests\tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUgonna/userAccountOOP.git"
+  },
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TUgonna/userAccountOOP/issues"
+  },
+  "homepage": "https://github.com/TUgonna/userAccountOOP#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
